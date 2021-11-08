@@ -6,62 +6,129 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: 
+
+  - title: research
+    url: 
+
+  - title: zhihu
+    url: https://www.zhihu.com/question/27834147/answer/2122655819
+
+  - title: bilibili
+    url: https://space.bilibili.com/289129399
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Search Engine Optimization of E-Commercial APP
+    url: 
+    desc: Listwise CTR models、Dynamic Weights Predict、Search Feature Enginnering
 
-  - title: Project 3
+  - title: Recommender System of E-Commercial APP
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Product Recommender、Content Recommemder、Text Notes and Videos.
 
-  - title: Project 4
+  - title: Data Science
+    url: https://www.humangous.com
+    desc: Data Analysis、Data Mining、Data Reduction、Data Visualization、Machine Learning、Deep Learning
+
+  - title: Wolfram Mathematica Playgroud
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Playing with Mathematica in many areas.
+
+  - title: Compuational Art
+    url: overview-post
+    desc: I've generated many beautiful art works in pictures and videos.
     highlight: WIP
 
-  - title: Project 5
+  - title: Computer Graphics and 3D Animation
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: NLP and Knowledge Graph
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: TextCases、RegularExpression、WordSegment、WordEmbedding、WordEncoding、Word Visualization
 
-old_project_entries:
-  - title: Soopr
+  - title: Computer Vision and Image Processing
+    url: overview-post
+    desc: Image Processing、Image Classify、Machine Learning、Deep Learning、Image Quality Evaluation、Image Generation、Image Feature Extraction
+
+
+  - title: Metaverse Age of Empire Project
+    url: overview-post
+    desc: Metaverse is future
+
+  - title: Math and Applied Math
+    url: overview-post
+    desc: Math is life
+
+  - title: Language and Education
+    url: overview-post
+    desc: Knowlage Graph and Aid tools.
+
+  - title: Computer Technology
+    desc: Algorithms
+
+
+featured_project_entries:
+  - title: Image Quality Evaluation[2018]
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Rank of Images of APP, Exclude some problem images.
     highlight: NEW
 
-  - title: Cookie
+  - title: Primative Building[2020]
+    url: https://github.com/abhinavs/cookie
+    desc: 
+
+  - title: Image Searching[2012]
+    url: 
+    desc: Wolfram Mathematica Version and C++ Version of Image Searching
+
+old_project_entries:
+
+  - title: Wolfram Mathematica Movie Editor
+    url: https://jx3.xoyo.com/movieeditor/
+    desc: Make Wolfram Language as a Script Language for Kongsoft JX3 Game Movie Editor
+
+  - title: Image Quality Evaluation[2018]
+    url: https://www.soopr.co
+    desc: Rank of Images of APP, Exclude some problem images.
+    highlight: NEW
+
+  - title: Data Spider[2015]
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: Data Analysis
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
+  - title: Data Mining
+    url: https://www.humangous.com
     desc: The better people know you, the better they collaborate
 
+  - title: Wolfram Writing Package[2012]
+    url: https://hypergroups
+    desc: Package convert Wolfram Mathematica Notbooks to Markdown format pages which could be published to Websites.
+
+  - title: Image Searching[2012]
+    url: 
+    desc: Wolfram Mathematica Version and C++ Version of Image Searching
+
+
+
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: hypergroups's homepage
+    url: hypergroups.cn
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: 
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/hypergroups
+
+  - title: weibo
+    url: 
 
   - title: feed
     url: feed.xml
@@ -84,7 +151,7 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://github.com/hypergroups
 
       - title: originally built for abhinav's homepage
         url: https://www.abhinav.co
