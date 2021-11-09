@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+### About HyperGroups
 
-Actually, it has the same layout of a post...
+Hello World

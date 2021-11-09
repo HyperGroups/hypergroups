@@ -17,6 +17,11 @@ layout: default
 {{ content }}
 
 {% if site.theme_config.show_projects == true %}
+  <h2>{{ site.theme_config.home.title_pre_projects }}</h2>
+  {% include card_list.html collection=site.data.home.pre_project_entries %}
+{% endif %}
+
+{% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
@@ -47,4 +52,10 @@ layout: default
     <div class="dashed"></div>
     {% include horizontal_list.html collection=site.data.home.footer_entries %}
   </footer>
+{% endif %}
+
+
+{% if site.theme_config.show_post == true %}
+  <h2>{{ site.theme_config.home.title_blog}}</h2>
+
 {% endif %}

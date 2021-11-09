@@ -17,103 +17,131 @@ navbar_entries:
   - title: bilibili
     url: https://space.bilibili.com/289129399
 
+
+pre_project_entries:
+
+  - title: connection with areas and concrete projects by keywords
+    url: 
+    desc: In this page, you can search by keywords like 1CA[Computational Art]on the browser[Ctrl+F], to spefify a concrete project's connection with its areas which are defined by myself.
+    highlight: 1Help
+
+
 project_entries:
 
   - title: Search Engine Optimization of E-Commercial APP
     url: 
-    desc: Listwise CTR models、Dynamic Weights Predict、Search Feature Enginnering
+    desc: Listwise CTR models、Dynamic Weights Predict、Search Feature Enginnering, gain billions RMB.
+    highlight: 1SEO
 
   - title: Recommender System of E-Commercial APP
     url: overview-post
-    desc: Product Recommender、Content Recommemder、Text Notes and Videos.
+    desc: Product Recommender、Content Recommemder、Text Notes and Videos, gain billions RMB.
+    highlight: 1RS
 
   - title: Data Science
     url: https://www.humangous.com
-    desc: Data Analysis、Data Mining、Data Reduction、Data Visualization、Machine Learning、Deep Learning
+    desc: Data Analysis、Data Mining、ETL、Data Collection、Data Processing、 Data Transformation、Data Reduction、Data Visualization
+    highlight: 1DS
 
   - title: Wolfram Mathematica Playgroud
-    url: overview-post
-    desc: Playing with Mathematica in many areas.
+    url: https://mathematica.stackexchange.com/users/6648/hypergroups
+    desc: Playing with Mathematica in many areas. I've solved thousands of problems, click to my stackexchange profile.
+    highlight: 1WMP
 
   - title: Compuational Art
     url: overview-post
-    desc: I've generated many beautiful art works in pictures and videos.
-    highlight: WIP
+    desc: I've generated many beautiful art works in pictures and videos. Featured one is here.
+    highlight: 1CA
 
   - title: Computer Graphics and 3D Animation
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Algorithm drived animation is addictive.
+    highlight: 1CGA
 
   - title: NLP and Knowledge Graph
     url: overview-post
     desc: TextCases、RegularExpression、WordSegment、WordEmbedding、WordEncoding、Word Visualization
+    highlight: 1NLP
 
   - title: Computer Vision and Image Processing
     url: overview-post
-    desc: Image Processing、Image Classify、Machine Learning、Deep Learning、Image Quality Evaluation、Image Generation、Image Feature Extraction
-
+    desc: Image Processing、Image Classify、Image Quality Evaluation、Image Generation、Image Feature Extraction
+    highlight: 1CVIP
 
   - title: Metaverse Age of Empire Project
     url: overview-post
     desc: Metaverse is future
+    highlight: 1Meta
 
   - title: Math and Applied Math
     url: overview-post
-    desc: Math is life
+    desc: Math is life, math is my inner core ability.
+    highlight: 1Math
 
   - title: Language and Education
     url: overview-post
-    desc: Knowlage Graph and Aid tools.
+    desc: Knowlage Graph and Learning-Aid tools.
+    highlight: 1LE
 
-  - title: Computer Technology
-    desc: Algorithms
+  - title: Computer Science and Technology
+    desc: Computer Manipulation Ability、Programming、Algorithms、Machine Learning、Deep Learning，I've wrote hundreds of thousands of lines of code.
+    highlight: 1CST
 
 
 featured_project_entries:
-  - title: Image Quality Evaluation[2018]
+  - title: Image Searching
     url: https://www.soopr.co
-    desc: Rank of Images of APP, Exclude some problem images.
-    highlight: NEW
+    desc: Gain my school level best paper within my Bachelor Degree period.
+    highlight: 1CVIP
 
-  - title: Primative Building[2020]
-    url: https://github.com/abhinavs/cookie
-    desc: 
-
-  - title: Image Searching[2012]
-    url: 
-    desc: Wolfram Mathematica Version and C++ Version of Image Searching
-
-old_project_entries:
 
   - title: Wolfram Mathematica Movie Editor
     url: https://jx3.xoyo.com/movieeditor/
     desc: Make Wolfram Language as a Script Language for Kongsoft JX3 Game Movie Editor
+    highlight: 1WMP
 
-  - title: Image Quality Evaluation[2018]
-    url: https://www.soopr.co
-    desc: Rank of Images of APP, Exclude some problem images.
-    highlight: NEW
 
-  - title: Data Spider[2015]
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Data Analysis
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Data Mining
-    url: https://www.humangous.com
-    desc: The better people know you, the better they collaborate
-
-  - title: Wolfram Writing Package[2012]
-    url: https://hypergroups
-    desc: Package convert Wolfram Mathematica Notbooks to Markdown format pages which could be published to Websites.
+old_project_entries:
 
   - title: Image Searching[2012]
     url: 
     desc: Wolfram Mathematica Version and C++ Version of Image Searching
+    highlight: 1CVIP
+
+  - title: Primative Building[2019]
+    url: https://github.com/abhinavs/cookie
+    desc: Playing at UGC Game Community
+    highlight: 1CGA
+
+
+
+  - title: Image Quality Evaluation[2018]
+    url: https://www.soopr.co
+    desc: Rank of Images of APP, Exclude some problem images.
+    highlight: 1CVIP
+
+  - title: Data Spider[2015]
+    url: https://github.com/abhinavs/cookie
+    desc: MapReduce Distributed Data Spider
+    highlight: 1DS
+
+  - title: Data Analysis
+    url: https://github.com/abhinavs/moonwalk
+    desc:  Job Ability, Both Academic and Industry Level
+    highlight: 1DS
+
+  - title: Data Mining
+    url: https://www.humangous.com
+    desc: Job Ability, Industry Level
+    highlight: 1DS
+
+  - title: Wolfram Writing Package[2012]
+    url: https://hypergroups
+    desc: Package convert Wolfram Mathematica notebooks to markdown format pages which could be published to many different online websites without editting again and again.
+  - title: Image Searching[2012]
+    url: 
+    desc: Wolfram Mathematica Version and C++ Version of Image Searching
+    highlight: 1WMP
 
 
 
