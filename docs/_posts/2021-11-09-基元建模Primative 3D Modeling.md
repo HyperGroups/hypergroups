@@ -177,19 +177,19 @@ Cuboid、Sphere、BezierCurve、Cone、Cylinder、Line...等等这些都是2维�
 ### 案例演示@直线风格建模@门窗
 
 
-![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingIMathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_63.jpg)
+![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_63.jpg)
 
 这一块Mathematica 12.1增加了HatchFilling和PatternFilling是我比较喜欢的功能，以后再扩展介绍一下。
 
 ### 案例演示@城市
 
 
-![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingIMathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_66.jpg)
+![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_66.jpg)
 
 ### 案例演示@轮胎
 
 
-![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingIMathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_68.jpg)
+![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_68.jpg)
 
 ### 正向的难点
 
@@ -210,7 +210,7 @@ Cuboid、Sphere、BezierCurve、Cone、Cylinder、Line...等等这些都是2维�
 ###### 案例演示@阴阳兔子@LowPoly风格
 
 
-![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingIMathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_76.jpg)
+![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_76.jpg)
 
 法拉利2020款，历史有许多作品是这种分组三角化积木模型
 https://www.bilibili.com/video/BV1EZ4y1u7r3/
@@ -230,7 +230,7 @@ Mathematica这块我以后再单独展开，除了我的世界和体素风小游
 而我做得较多的另一部分是拿来生成虽然底层是体素化的，看起来就是普通的房子这种，体素可视风格没有那么强。
 所以我一直在探索强风格化与弱风格化之间的平衡问题。
 
-![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingIMathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_84.jpg)
+![OutputCell](https://raw.githubusercontent.com/HyperGroups/pic_bed/master/source/MathematicaBlocksModelingI/resource/MathematicaBlocksModelingI_84.jpg)
 
 ### 积木建模之平行六面体建模
 
@@ -302,6 +302,7 @@ Mathematica==>Blender==>Mathematica==>积木模型
 
 有能力和喜欢做低面建模的可以一起玩，可以一起来生成一些艺术作品，比如我需要大量2万面以下-10万面以下的模型。
 
+# 
 ---
 
 
